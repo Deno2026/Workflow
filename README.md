@@ -1,10 +1,10 @@
-# Deno AI Studio Releases
+# [Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
 
 This repository hosts the public Windows installer and update manifest for **Deno AI Studio**.
 
-## Latest installer
+## Direct download
 
-- [`Deno AI Studio Setup 0.1.3.exe`](./deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
+- [Download Windows installer](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
 
 ## What it is
 

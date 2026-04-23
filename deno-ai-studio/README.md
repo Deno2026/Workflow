@@ -1,8 +1,8 @@
-# Deno AI Studio
+# [Deno AI Studio](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
 
-## Download
+## Direct download
 
-- [`Deno AI Studio Setup 0.1.3.exe`](./updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
+- [Download Windows installer](https://raw.githubusercontent.com/Deno2026/Workflow/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.3.exe)
 
 ## First launch checklist
 
