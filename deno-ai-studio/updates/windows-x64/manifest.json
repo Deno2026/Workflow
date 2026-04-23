@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.5",
+    "version":  "0.1.6",
     "channel":  "stable",
     "publishedAt":  "2026-04-23T12:10:00.0000000Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.5.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.5.exe",
-    "sha256":  "d6ce14f9c8a4be6d18e43acb0d254001d3e088e05f02094e70d9209b87e02e2f",
-    "size":  94275032,
-    "notes":  "Updated the public repo and in-app updater to the new Windows-Installer-for-Deno-AI-Studio path."
+    "installerFileName":  "Deno AI Studio Setup 0.1.6.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.6.exe",
+    "sha256":  "dfbac6683855972b6f1640b003c5e62c96174f426358eb177b9e549cd42959d7",
+    "size":  94205758,
+    "notes":  "Refreshed the desktop shortcut icon and changed startup updates to ask before downloading."
 }
