@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.16",
+    "version":  "0.1.17",
     "channel":  "stable",
-    "publishedAt":  "2026-04-23T15:50:15.3178026Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.16.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.16.exe",
-    "sha256":  "67b5cb84f1c24b0c10dfc99408af5707cd209bc4eba973be03c9fff4acdda9b3",
-    "size":  94221051,
-    "notes":  "Verifies the installed runtime state right after setup so completed installs switch cleanly to Installed and unlock Run."
+    "publishedAt":  "2026-04-23T16:08:07.0939972Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.17.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.17.exe",
+    "sha256":  "f0a31593ad97958f57e3475a89556f8100d05b08298792f9c57b4f8fa4e726bf",
+    "size":  94220935,
+    "notes":  "Fixes Motif Video 2B install detection so downloaded model files immediately switch the launcher to Installed and unlock Run."
 }
