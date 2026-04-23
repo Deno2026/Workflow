@@ -219,6 +219,7 @@ It is designed to make model installation, execution, input-file handling, and c
 
 - Qwen3-TTS 0.6B
 - Qwen3-TTS 1.7B
+- Motif Video 2B
 
 ## Notes
 
