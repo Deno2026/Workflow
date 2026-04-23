@@ -1,1 +1,1 @@
-4ceee18e8cd50ed1376173f837afdb2f250e986035b0faa1951d2ca37f5a176f  Deno AI Studio Setup 0.1.8.exe
+cfd8dd47f1423b0f0baf761b761333b0220d9be73a4c3e27476ca42210df323e  Deno AI Studio Setup 0.1.9.exe

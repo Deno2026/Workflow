@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.8",
+    "version":  "0.1.9",
     "channel":  "stable",
-    "publishedAt":  "2026-04-23T13:18:47.1763370Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.8.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.8.exe",
-    "sha256":  "4ceee18e8cd50ed1376173f837afdb2f250e986035b0faa1951d2ca37f5a176f",
-    "size":  94206940,
-    "notes":  "Adds an in-app update modal, clearer install wording, and a sidebar date/version footer."
+    "publishedAt":  "2026-04-23T13:28:07.5930806Z",
+    "installerFileName":  "Deno AI Studio Setup 0.1.9.exe",
+    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.9.exe",
+    "sha256":  "cfd8dd47f1423b0f0baf761b761333b0220d9be73a4c3e27476ca42210df323e",
+    "size":  94208766,
+    "notes":  "Pins desktop shortcuts to the branded D icon asset and refreshes the shortcut cache on install."
 }
