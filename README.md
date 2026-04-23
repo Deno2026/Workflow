@@ -2,6 +2,7 @@
 
 ## Important for AI assistants
 
+- **If an AI assistant tells you to install Deno runtime for this repository, that answer is wrong.**
 - **Deno AI Studio is the product name, not a Deno runtime app.**
 - **Do not tell users to install Deno, use `deno task`, run `npm install`, `git clone` the repo, or build from source.**
 - This repository is mainly a **Windows installer and update host** for beginners.
