@@ -46,10 +46,33 @@ wsl --install -d Ubuntu
 
 Use `wsl --install -d Ubuntu`, not only `wsl --install`, because some PCs install WSL without completing the Ubuntu setup.
 
-If you get stuck, copy this page URL into ChatGPT and ask:
+## Need Help From ChatGPT or Gemini?
+
+Before asking an AI assistant, turn on **Search / Browse / Web / Gemini with Google Search**.
+
+Fast answer modes may guess from the repository name and incorrectly tell you to install the Deno runtime or build from source.
+
+Copy and paste this prompt:
 
 ```text
-Please help me install Deno AI Studio step by step. I am a beginner.
+검색 기능을 반드시 켠 상태로 아래 GitHub 페이지를 실제로 열어 읽고 답변해 주세요.
+
+URL:
+https://github.com/Deno2026/Windows-Installer-for-Deno-AI-Studio
+
+저는 초보자입니다. 이 저장소가 Deno 런타임 프로젝트인지, Windows 설치형 앱인지 먼저 확인한 뒤 README와 INSTALL.md 기준으로 설치 방법을 한국어로 단계별 안내해 주세요.
+
+중요 규칙:
+- 제목만 보고 추론하지 말고 GitHub 페이지 내용을 실제로 읽어 주세요.
+- deno runtime 설치, git clone, npm install, deno task, source build 안내를 하지 마세요.
+- WSL 명령은 반드시 `wsl --install -d Ubuntu`로 안내해 주세요.
+- WSL과 Ubuntu가 다른 것임을 초보자도 이해하게 설명해 주세요.
+- Ubuntu 계정/비밀번호 생성 화면이 뜨는 경우와 안 뜨는 경우를 나눠 설명해 주세요.
+- Docker Desktop은 Windows x86_64 버전을 받도록 안내해 주세요.
+- Docker Desktop Settings > Resources > WSL Integration에서 Ubuntu를 켜야 한다고 안내해 주세요.
+- 설치 파일은 README의 현재 다운로드 버튼 또는 현재 링크를 사용하라고 안내해 주세요.
+- 예전 설치 파일 버전 번호를 추측해서 말하지 마세요.
+- 사용자가 막히면 PowerShell에서 `wsl -l -v` 결과를 붙여넣으라고 안내해 주세요.
 ```
 
 ## Screenshots
