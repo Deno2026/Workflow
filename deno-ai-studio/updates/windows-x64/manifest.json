@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.27",
-    "channel":  "stable",
-    "publishedAt":  "2026-04-25T13:36:02.3065725Z",
-    "installerFileName":  "Deno AI Studio Setup 0.1.27.exe",
-    "installerUrl":  "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.27.exe",
-    "sha256":  "35e6b0abdbed4f9d6a5d56dcfe735e9a676e68f77afdfb0864a11f0a57237337",
-    "size":  94243127,
-    "notes":  "Fixes drag-and-drop file import for reference audio and other model input files by resolving dropped file paths through Electron webUtils."
+  "version": "0.1.28",
+  "channel": "stable",
+  "publishedAt": "2026-04-29T17:51:15.4556126Z",
+  "installerFileName": "Deno AI Studio Setup 0.1.28.exe",
+  "installerUrl": "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.28.exe",
+  "sha256": "8a40a30122ff52bf9b3f91fc82c322b8a4e9f13db038d5b07bfdf848c9ae62aa",
+  "size": 94243938,
+  "notes": "Installer now highlights choosing a drive with enough free space, and update prompts show a short change summary before downloading."
 }
