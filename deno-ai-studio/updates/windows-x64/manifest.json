@@ -1,10 +1,10 @@
 {
-  "version": "0.1.30",
+  "version": "0.1.31",
   "channel": "stable",
-  "publishedAt": "2026-04-29T18:03:00.0000000Z",
-  "installerFileName": "Deno AI Studio Setup 0.1.30.exe",
-  "installerUrl": "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.30.exe",
-  "sha256": "061594f073d52b61db4716c1d2e371834c11ad1d31160cdbe52c10bd4300299f",
-  "size": 94244145,
-  "notes": "Windows Apps publisher metadata now displays Deno instead of aions + Codex."
+  "publishedAt": "2026-04-29T18:14:30.0000000Z",
+  "installerFileName": "Deno AI Studio Setup 0.1.31.exe",
+  "installerUrl": "https://raw.githubusercontent.com/Deno2026/Windows-Installer-for-Deno-AI-Studio/main/deno-ai-studio/updates/windows-x64/Deno%20AI%20Studio%20Setup%200.1.31.exe",
+  "sha256": "0afc88976746769837da86f828eae170e825396a0b0c269dac31e0ce4dcaffe5",
+  "size": 94244504,
+  "notes": "Uninstall cleanup now also removes the Deno AI Studio data drive folder and attempts to remove Deno-specific Docker runtime images."
 }
